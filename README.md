@@ -24,7 +24,7 @@ Konteneryzacja rozproszonej bazy danych przy użyciu Docker i MongoDB
 
 Rozproszony system do konteneryzacji przy użyciu Apache Mesos i Docker
 
-
+"Club Manager" - wydajny system pełnej administracji klubem snookerowym/bilardowym oparty o platformę node.js i bazę danych MongoDB
 
 
 
