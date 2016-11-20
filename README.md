@@ -1,15 +1,15 @@
 "# seminaria2016z" 
 Rozproszona baza danych klucz-wartość na przykładzie systemu Redis / Riak
 
-Rozproszona baza danych NoSQL na przykładzie systemu Couchbase
+Rozproszona baza danych NoSQL na przykładzie systemu Couchbase [Daniel Cegielski]
 
-Realizacja klastrów bazodanowych server-side i client-side na przykładzie CouchDB i PouchDB
+Realizacja klastrów bazodanowych server-side i client-side na przykładzie CouchDB i PouchDB [Adrian Krawczyński]
 
 Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandra
 
 Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB
 
-Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb
+Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb [Joanna Kiełtyka]
 
 Realizacja bazy danych masywnego przetwarzania równoległego przy użyciu Greenplum Pivotal DB
 
