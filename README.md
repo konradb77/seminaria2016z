@@ -7,7 +7,7 @@ Realizacja klastrów bazodanowych server-side i client-side na przykładzie Couc
 
 Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandra
 
-Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB
+Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB [Tomasz Marzec]
 
 Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb [Joanna Kiełtyka]
 Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie Postgres i Cassandra [Sławomir Tyliba]
