@@ -1,6 +1,5 @@
 "# seminaria2016z" 
-Rozproszona baza danych klucz-wartość na przykładzie systemu Redis / Riak
-
+Rozproszona baza danych klucz-wartość na przykładzie systemu Redis / Riak [Kamil Świerkot] 
 Rozproszona baza danych NoSQL na przykładzie systemu Couchbase [Daniel Cegielski]
 
 Realizacja klastrów bazodanowych server-side i client-side na przykładzie CouchDB i PouchDB [Adrian Krawczyński]
