@@ -1,5 +1,7 @@
 "# seminaria2016z" 
-Rozproszona baza danych klucz-wartość na przykładzie systemu Redis / Riak
+Rozproszona baza danych klucz-wartość na przykładzie systemu Redis / Riak [Kamil Świerkot] 
+
+Wirtualizacja a konteneryzacja przy wykorzystaniu chmury Amazon Web Services [Olena Bondarenko]
 
 Rozproszona baza danych NoSQL na przykładzie systemu Couchbase [Daniel Cegielski]
 
@@ -10,6 +12,7 @@ Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandr
 Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB [Tomasz Marzec]
 
 Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb [Joanna Kiełtyka]
+
 Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie Postgres i Cassandra [Sławomir Tyliba]
 
 Realizacja bazy danych masywnego przetwarzania równoległego przy użyciu Greenplum Pivotal DB
