@@ -11,7 +11,7 @@ Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandr
 
 Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB [Tomasz Marzec]
 
-Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb [Joanna Kiełtyka]
+Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie MariaDB i monetdb [Joanna Kiełtyka/Robert Słuszniak]
 
 Różnice pomiędzy tradycyjnymi a kolumnowymi relacyjnymi bazami danych na przykładzie Postgres i Cassandra [Sławomir Tyliba]
 
