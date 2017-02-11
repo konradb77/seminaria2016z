@@ -7,7 +7,7 @@ Rozproszona baza danych NoSQL na przykładzie systemu Couchbase [Daniel Cegielsk
 
 Realizacja klastrów bazodanowych server-side i client-side na przykładzie CouchDB i PouchDB [Adrian Krawczyński]
 
-Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandra
+Systemy bazodanowe dla Big Data odporne na awarie, na przykładzie bazy Cassandra [KonradBrandys]
 
 Wydajność dokumentowej rozproszonej bazy danych na przykładzie MongoDB [Tomasz Marzec]
 
